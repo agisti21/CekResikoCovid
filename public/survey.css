@@ -1,0 +1,7 @@
+html,body{
+        background-image: url(images/hero.jpg);
+        background-size: cover;
+        background-repeat: repeat;
+        height: 10%;
+
+}
